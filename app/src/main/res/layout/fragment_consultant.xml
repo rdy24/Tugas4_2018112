@@ -107,13 +107,6 @@
                     android:textColor="@color/black"
                     android:text="Dr. Sam"/>
             </LinearLayout>
-
-
         </LinearLayout>
-
     </LinearLayout>
-
-
-
-
 </ScrollView>
