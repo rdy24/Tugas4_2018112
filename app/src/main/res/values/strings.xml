@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Health News App the best app for your health</string>
+    <string name="world_news">World News</string>
+    <string name="text_description">Getting the latest news from around the world</string>
+    <string name="text_description_2">The Difference Between a Cold and the Flu</string>
+    <string name="local_news">Local News</string>
+    <string name="text_description_3">How Virus Spreads and How to Protect Yourself</string>
+    <string name="text_description_4">Skip Cancer Screening? You Could Pay the Price</string>
+</resources>
